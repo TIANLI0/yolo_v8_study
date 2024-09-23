@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>D:\develop\yolo_v8_study\strit\Annotations</folder>
+  <filename>E5MsDtsVgAQy4ZM.jpg</filename>
+  <size>
+    <width>1452</width>
+    <height>2048</height>
+    <depth>3</depth>
+  </size>
+  <source>
+    <database>https://github.com/CVHub520/X-AnyLabeling</database>
+  </source>
+  <object>
+    <name>p</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>229</xmin>
+      <ymin>133</ymin>
+      <xmax>1148</xmax>
+      <ymax>1863</ymax>
+    </bndbox>
+  </object>
+</annotation>

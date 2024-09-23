@@ -1,0 +1,39 @@
+{
+  "version": "2.4.2",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "p",
+      "score": null,
+      "points": [
+        [
+          127.62500000000023,
+          104.46875000000003
+        ],
+        [
+          838.5625000000002,
+          104.46875000000003
+        ],
+        [
+          838.5625000000002,
+          1952.90625
+        ],
+        [
+          127.62500000000023,
+          1952.90625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "..\\image\\EwwCr20VEAARBKo.jpg",
+  "imageData": null,
+  "imageHeight": 2048,
+  "imageWidth": 1024
+}

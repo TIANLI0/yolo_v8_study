@@ -1,0 +1,39 @@
+{
+  "version": "2.4.2",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "p",
+      "score": null,
+      "points": [
+        [
+          98.72527472527477,
+          181.989010989011
+        ],
+        [
+          1952.5714285714287,
+          181.989010989011
+        ],
+        [
+          1952.5714285714287,
+          1390.7802197802196
+        ],
+        [
+          98.72527472527477,
+          1390.7802197802196
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "..\\image\\Ekrn453VkAA_bOv.jpg",
+  "imageData": null,
+  "imageHeight": 1442,
+  "imageWidth": 2048
+}
