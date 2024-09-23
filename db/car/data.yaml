@@ -1,6 +1,6 @@
-train: ../train/images
-val: ../valid/images
-test: ../test/images
+train: ./train/images
+val: ./valid/images
+test: ./test/images
 
 nc: 6
 names: ['car', 'large_bus', 'large_truck', 'medium_truck', 'small_bus', 'small_truck']

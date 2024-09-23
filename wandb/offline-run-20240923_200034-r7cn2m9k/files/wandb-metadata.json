@@ -1,0 +1,53 @@
+{
+    "os": "Windows-10-10.0.27695-SP0",
+    "python": "3.11.3",
+    "heartbeatAt": "2024-09-23T12:00:34.937778",
+    "startedAt": "2024-09-23T12:00:34.744478",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "D:\\develop\\yolo_v8_study\\train.py",
+    "codePathLocal": "train.py",
+    "codePath": "train.py",
+    "git": {
+        "remote": "https://github.com/TIANLI0/yolo_v8_study.git",
+        "commit": "96e6e3e8cb735ec2a09bbf99fe822cdbfdba5074"
+    },
+    "email": "507249007@qq.com",
+    "root": "D:/develop/yolo_v8_study",
+    "host": "Tianli",
+    "username": "tian5",
+    "executable": "C:\\Users\\tian5\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+    "cpu_count": 14,
+    "cpu_count_logical": 20,
+    "cpu_freq": {
+        "current": 2300.0,
+        "min": 0.0,
+        "max": 2300.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2300.0,
+            "min": 0.0,
+            "max": 2300.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 953.8525352478027,
+            "used": 734.4775199890137
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 3060 Laptop GPU",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3060 Laptop GPU",
+            "memory_total": 6442450944
+        }
+    ],
+    "memory": {
+        "total": 39.62943649291992
+    }
+}
