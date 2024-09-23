@@ -1,7 +1,7 @@
 from ultralytics import YOLO
 
 # 加载模型
-model = YOLO("yolov8n.pt")
+model = YOLO("yolov8s.pt")
 
 # 识别图片
 results = model(

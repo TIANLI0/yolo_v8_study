@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 6
+names: ['car', 'large_bus', 'large_truck', 'medium_truck', 'small_bus', 'small_truck']
+
+roboflow:
+  workspace: intersectionvehicletracking-e7llp
+  project: outside_the_intersection
+  version: 4
+  license: BY-NC-SA 4.0
+  url: https://universe.roboflow.com/intersectionvehicletracking-e7llp/outside_the_intersection/dataset/4
