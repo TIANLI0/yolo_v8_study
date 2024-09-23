@@ -10,9 +10,12 @@
 ## Car
 
 1. 原始数据：
-   ![train_batch0](D:/develop/yolo_v8_study/doc/README/train_batch0.jpg)
+   ![train_batch0](doc/README/train_batch0.jpg)
 
 2. 不同数据验证：
 
-   ![image-20240923210147890](D:/develop/yolo_v8_study/doc/README/image-20240923210147890.png)
-   
+   ![image-20240923210147890](doc/README/image-20240923210147890.png)
+
+   <video id="video" controls="" preload="none" poster="封面">
+      <source id="mp4" src="doc/README/QQ2024923-21458.mp4" type="video/mp4">
+   </videos>
